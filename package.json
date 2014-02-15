@@ -4,7 +4,7 @@
   "description": "A Socket.io/WebRTC Game.",
   "main": "index.js",
   "scripts": {
-    "test": "testem"
+    "test": "mocha test/*.js"
   },
   "author": "Ryan Kois",
   "license": "MIT",
