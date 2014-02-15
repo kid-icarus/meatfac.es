@@ -1,0 +1,8 @@
+{
+  "name": "meatfaces",
+  "version": "0.0.0",
+  "dependencies": {
+     "animated-gif": "sole/Animated_GIF",
+     "gumhelper": "sole/gumhelper"
+  }
+}
