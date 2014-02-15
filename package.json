@@ -11,7 +11,8 @@
   "devDependencies": {
     "gulp": "~3.5.2",
     "mocha": "~1.17.1",
-    "chai": "~1.9.0"
+    "chai": "~1.9.0",
+    "testem": "~0.6.7"
   },
   "dependencies": {
     "socket.io": "~0.9.16",
